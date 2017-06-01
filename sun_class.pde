@@ -1,0 +1,3 @@
+class Sun extends Body {
+  
+}
